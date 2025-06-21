@@ -36,8 +36,7 @@ const CONFIG = {
           title: 'Library Management System',
           description:
             'A Windows Forms application for managing library operations, including book management and transaction tracking.',
-          imageUrl:
-            '',
+          imageUrl: '',
           link: '',
         },
       ],
@@ -71,8 +70,7 @@ const CONFIG = {
     email: 'mhmdsly.91@gmail.com',
   },
   resume: {
-    fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
@@ -249,11 +247,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: ``,
 
   enablePWA: true,
 };
